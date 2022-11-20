@@ -1,0 +1,12 @@
+{
+    "manifest_version":3,
+    "version":"1.0",
+    "name":"Notdonel tracker",
+    "action":{
+        "default_popup":"ChromeExtension.html",
+        "default_icon":"white.png"
+    },
+    "permissions":[
+        "tabs"
+    ]
+}
